@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(24, 23, 23);
+}
+
+header {
+    display: flex;
+    background-color: rgb(31, 68, 45);
+    color: white;
+}
+
+.header__logo {
+    width: 90px;
+    margin: 8px;
+}
