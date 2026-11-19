@@ -14,3 +14,6 @@ header {
     width: 90px;
     margin: 8px;
 }
+
+/* Para que el texto salgan los tres puntitos si no cabe mas texto en la card
+text-overflow: elipsis; */
