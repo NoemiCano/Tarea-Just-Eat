@@ -16,4 +16,7 @@ header {
 }
 
 /* Para que el texto salgan los tres puntitos si no cabe mas texto en la card
-text-overflow: elipsis; */
+text-overflow: elipsis;
+display: -webkit-box;
+-webkit-line-clamp: 2;
+-webkit-box-orient: vertical; */
